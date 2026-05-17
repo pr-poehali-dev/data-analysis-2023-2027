@@ -7,7 +7,7 @@ const PLATINUM_IMG = 'https://cdn.poehali.dev/projects/d81f0fc3-b3f8-4c33-9af3-8
 export const sections = [
   {
     id: 'hero',
-    subtitle: <Badge variant="outline" className="text-amber-400 border-amber-400">Химия · 9 класс</Badge>,
+    subtitle: undefined,
     title: "Металлы в ювелирном деле.",
     content: 'Подготовил: ученик группы ПД13 Калинин Семён',
     showButton: false,
